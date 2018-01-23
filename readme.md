@@ -20,7 +20,7 @@ This project was created based on the information in the following projects:
 
 * Check out this project:
 
-        git clone https://github.com/yajra/homestead-oracle.git
+        git clone https://github.com/rcarpioponce/homestead-oracle-php71.git
 
 * Install [vbguest]:
 
